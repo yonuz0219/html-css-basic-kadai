@@ -19,6 +19,6 @@ h1 {
     font-size:2rem;
     font-family:"Josefin Sans",sans-serif;
     letter-spacing:1.2em;
-    text-shadow:3px 3px 3px gray;
-    border-bottom:solid 1px black;
+    text-shadow:3px 3px 3px rgb(136, 136, 136);
+    border-bottom:solid 3px black;
 }
