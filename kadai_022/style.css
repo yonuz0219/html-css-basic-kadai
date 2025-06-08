@@ -38,7 +38,7 @@ p {
 #parent{
     display:flex;
     flex-wrap:wrap;
-    justify-content:space-between;
+    justify-content:space-around;
 }
 
 .contents {
@@ -81,6 +81,7 @@ a:hover{
         font-size:25px;
     }
     #parent {
-        display:block;
+        /*display:block;*/
+        flex-direction:column;
     }
 }
